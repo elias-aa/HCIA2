@@ -1,6 +1,7 @@
 # HCI A2
 
 # Short Description
+The following Figma diagram is a sample app prototype for courses at Sheridan College.  This is Prototype #2.
 
 # Public URL of Figma Design
 
