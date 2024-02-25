@@ -7,6 +7,7 @@ The following Figma diagram is a sample app prototype for courses at Sheridan Co
 https://www.figma.com/proto/m9RZ984tVe2JpyNbndo4bo/A1HCI?page-id=47%3A169&type=design&node-id=47-170&viewport=292%2C357%2C0.35&t=gProC9Q7bcgZVIOR-1&scaling=min-zoom&starting-point-node-id=47%3A170&mode=design![image](https://github.com/elias-aa/HCIA2/assets/94557907/ce975ebb-f294-4828-bb4b-1d88a977790d)
 
 # Video URL
+https://sheridanc-my.sharepoint.com/:v:/g/personal/alissand_shernet_sheridancollege_ca/EccHN1uQ6xVAnGC9fuTsA1QBXz5tbiiYzGa6cSShP9tqzA?e=5JnTKT
 
 # List the top five new desirable functionalities
 1.	Gamification Elements - 	Incorporate elements such as badges, achievements, leaderboards, and rewards to incentivize engagement and motivate students to actively participate.
