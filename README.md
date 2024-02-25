@@ -1,5 +1,5 @@
 # HCI A2
-# List the top five new desirable functionalities.
+List the top five new desirable functionalities.
 
 # 1.	Gamification Elements - 	Incorporate elements such as badges, achievements, leaderboards, and rewards to incentivize engagement and motivate students to actively participate.
 
