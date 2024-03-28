@@ -3,6 +3,9 @@
 # Short Description
 The following Figma diagram is a sample app prototype for courses at Sheridan College.  This is Prototype #3.
 
+# Public URL of Figma Design (For Prototype #3)
+https://www.figma.com/proto/m9RZ984tVe2JpyNbndo4bo/A1HCI?page-id=83%3A273&type=design&node-id=83-874&t=xB1oepjg5eR0o84X-0&scaling=min-zoom&starting-point-node-id=83%3A874![image](https://github.com/elias-aa/HCIA2/assets/94557907/4ab792a0-42aa-4cdd-aa42-38d022cf0edd)
+
 # Public URL of Figma Design (For Prototype #2)
 https://www.figma.com/proto/m9RZ984tVe2JpyNbndo4bo/A1HCI?page-id=47%3A169&type=design&node-id=47-170&viewport=292%2C357%2C0.35&t=gProC9Q7bcgZVIOR-1&scaling=min-zoom&starting-point-node-id=47%3A170&mode=design![image](https://github.com/elias-aa/HCIA2/assets/94557907/ce975ebb-f294-4828-bb4b-1d88a977790d)
 
